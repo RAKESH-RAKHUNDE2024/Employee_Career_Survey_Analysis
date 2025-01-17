@@ -13,7 +13,7 @@ The Dataset, **Employeecareersurvey.csv**, Includes The Following Columns:-
 - **Would You Definitely Pursue A Higher Education/post Graduation Outside Of India?**: Decision To Pursue Higher Education Abroad And Self-finance It.
 - **How Likely Is It That You Will Work For One Employer For 3 Years Or More?**: Likelihood Of Staying With A Single Employer For An Extended Period.
 - **Would You Work For A Company Whose Mission Is Not Clearly Defined And Publicly Posted?**: Opinion On Working For A Company With Unclear Mission Statements.
-- **How Likely Would You Work For A Company Whose Mission Is Misaligned With Their Public Actions Or Even Their Product? **: Attitude Towards Companies Whose Actions Don't Align With Their Mission.
+- **How Likely Would You Work For A Company Whose Mission Is Misaligned With Their Public Actions Or Even Their Product?**: Attitude Towards Companies Whose Actions Don't Align With Their Mission.
 - **How Likely Would You Work For A Company Whose Mission Is Not Bringing Social Impact?**: Interest In Working For Socially Impactful Companies.
 - **What Is The Most Preferred Working Environment For You?**: Preferred Workplace Setting.
 - **Which Of The Below Employers Would You Work With?**: Companies That Are Attractive To The Respondent.
